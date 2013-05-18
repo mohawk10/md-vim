@@ -3,7 +3,7 @@ Summary
 
 Syntax and keyboard shortcuts for editing Markdown files.
 
-Install
+Installtest
 =======
     
 If you're using [pathogen](https://github.com/tpope/vim-pathogen), drop this
